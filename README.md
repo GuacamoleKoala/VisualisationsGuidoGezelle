@@ -26,9 +26,9 @@ V4B: Deze visualisatie is een herwerking (geomap) van visualisatie4. Deze visual
 
 weblink: https://guacamolekoala.github.io/Visualisatie4BGuidoGezelle/
 
-V5
+V5: Deze visualisatie toont het netwerk van relevante personen omtrent Guido Gezelle over de tijd. Het verzamelt start, einde en punttijden van relevante relaties met Guido en onderling, alsook tijdstippen omtrent woonlocatie, werkplaats, werkgever en beroep.
 
-weblink: 
+weblink: https://guacamolekoala.github.io/Visualisatie5GuidoGezelleGephi/
 
 ###Mappenstructuur
 
@@ -40,4 +40,5 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 4. Bestanden in Gephi
 5. Bestanden na Sigma export en na aanpassingen in Sigma export (soms geen Sigma gebruikt, maar Java, html en css-
 6. Github bestanden voor de visualisatie (en kopie van repo)
-7. 
+7. Handleiding van de visualisatie
+8. Link naar visualisatie op Github
