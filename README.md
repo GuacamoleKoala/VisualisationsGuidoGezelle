@@ -2,27 +2,27 @@ Deze readme licht de documentatie bij het project omtrent het maken van visualis
 
 ###Overzicht van de vijf visualisaties:
 
-V1 
+V1: Deze visualisatie toont het netwerk van personen gerelateerd aan Guido Gezelle
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie1GuidoGezelleGephi/
 
-V2
+V2: Deze visualisatie toont welke personen in het correspondentennetwerk van Guido Gezelle met elkaar hebben gecorrespondeerd en/of familie zijn van elkaar.
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie2GuidoGezelleGephi/
 
-V3A
+V3A: V3A: Deze visualisatie toont institutionele verbanden: welke personen dezelfde werkgever, onderwijsinstelling en/of vereniging hebben gedeeld binnen het correspondentennetwerk van Guido Gezelle.
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie3AGuidoGezelleGephi/
 
-V3B
+V3B: Deze visualisatie is een herwerking (projectiemap) van visualisatie3A. Deze visualisatie toont de sociale cohesie van personen in het netwerk van correspondenten in relatie tot Guido Gezelle.
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie3BGuidoGezelleGephi/
 
-V4A
+V4A: Deze visualisatie toont geografische verbanden binnen het netwerk van correspondenten omtrent Guido Gezelle.
 
-weblink:
+weblink: https://guacamolekoala.github.io/Visualisatie4GuidoGezelleGephi/
 
-V4B
+V4B: Deze visualisatie is een herwerking (geomap) van visualisatie4. Deze visualisatie toont de geografische verbondenheid op basis van een wereldkaart en de data op basis van breedtegraad en lengtegraad.
 
 weblink:
 
