@@ -49,6 +49,10 @@ Hieronder wordt de mappenstructuur verder toegelicht, zodat iedereen hiermee aan
 
 In deze repository kan ook een powerpointpresentatie teruggevonden worden. Deze bevat een overzicht van de grote lijnen van dit project en onderzoek.
 
+### Opgeloste queries
+
+Deze repository bevat ook een 
+
 ### Algemene Handleiding
 
 Omdat niet alles behandeld kon worden in de specifieke handleidingen, werd ook een algemene handleiding opgesteld. Ook deze is terug te vinden in de repository
